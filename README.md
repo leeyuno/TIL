@@ -6,5 +6,5 @@
 ## Structures and Classes
 - https://leeyuno.tistory.com/90
 
-## Structures and Classes
+## Choosing Between Structures and Classes
 - https://leeyuno.tistory.com/91
