@@ -8,3 +8,6 @@
 
 ## Choosing Between Structures and Classes
 - https://leeyuno.tistory.com/91
+
+## DispatchQueue with weak self
+- https://leeyuno.tistory.com/92
