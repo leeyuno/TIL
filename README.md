@@ -11,3 +11,6 @@
 
 ## DispatchQueue with weak self
 - https://leeyuno.tistory.com/92
+
+## Properties
+- https://leeyuno.tistory.com/manage/posts/
