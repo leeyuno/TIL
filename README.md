@@ -14,3 +14,6 @@
 
 ## Properties
 - https://leeyuno.tistory.com/manage/posts/
+
+## PopLast & RemoveLast & DropLast
+https://leeyuno.tistory.com/94
