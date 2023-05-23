@@ -17,3 +17,6 @@
 
 ## PopLast & RemoveLast & DropLast
 https://leeyuno.tistory.com/94
+
+## Methods
+https://leeyuno.tistory.com/95
