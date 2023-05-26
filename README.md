@@ -20,3 +20,6 @@ https://leeyuno.tistory.com/94
 
 ## Methods
 https://leeyuno.tistory.com/95
+
+## Enumerations
+https://leeyuno.tistory.com/96
