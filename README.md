@@ -26,3 +26,6 @@ https://leeyuno.tistory.com/96
 
 ## Subscripts
 https://leeyuno.tistory.com/97
+
+## Functions
+https://leeyuno.tistory.com/98
