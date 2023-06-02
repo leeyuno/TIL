@@ -29,3 +29,6 @@ https://leeyuno.tistory.com/97
 
 ## Functions
 https://leeyuno.tistory.com/98
+
+## Inheritance
+https://leeyuno.tistory.com/99
