@@ -32,3 +32,9 @@ https://leeyuno.tistory.com/98
 
 ## Inheritance
 https://leeyuno.tistory.com/99
+
+## Type Casting
+https://leeyuno.tistory.com/100
+
+## Nested Types
+https://leeyuno.tistory.com/101
