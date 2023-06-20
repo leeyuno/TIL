@@ -16,34 +16,37 @@
 - https://leeyuno.tistory.com/manage/posts/
 
 ## PopLast & RemoveLast & DropLast
-https://leeyuno.tistory.com/94
+- https://leeyuno.tistory.com/94
 
 ## Methods
-https://leeyuno.tistory.com/95
+- https://leeyuno.tistory.com/95
 
 ## Enumerations
-https://leeyuno.tistory.com/96
+- https://leeyuno.tistory.com/96
 
 ## Subscripts
-https://leeyuno.tistory.com/97
+- https://leeyuno.tistory.com/97
 
 ## Functions
-https://leeyuno.tistory.com/98
+- https://leeyuno.tistory.com/98
 
 ## Inheritance
-https://leeyuno.tistory.com/99
+- https://leeyuno.tistory.com/99
 
 ## Type Casting
-https://leeyuno.tistory.com/100
+- https://leeyuno.tistory.com/100
 
 ## Nested Types
-https://leeyuno.tistory.com/101
+- https://leeyuno.tistory.com/101
 
 ## Extension
-https://leeyuno.tistory.com/102
+- https://leeyuno.tistory.com/102
 
-## Protocol(1) Delegation
-https://leeyuno.tistory.com/103
+## Protocol(1) Requirements
+- https://leeyuno.tistory.com/103
 
-## Protocol(2) Requirements
-https://leeyuno.tistory.com/104
+## Protocol(2) Delegation
+- https://leeyuno.tistory.com/104
+
+## Protocol(3) Protocols as Types
+- https://leeyuno.tistory.com/105
