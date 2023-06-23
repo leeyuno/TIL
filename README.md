@@ -50,3 +50,6 @@
 
 ## Protocol(3) Protocols as Types
 - https://leeyuno.tistory.com/105
+
+## Protocol(4) Adding Protocol Conformance with an Extension
+- https://leeyuno.tistory.com/106
