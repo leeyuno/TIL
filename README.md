@@ -53,3 +53,12 @@
 
 ## Protocol(4) Adding Protocol Conformance with an Extension
 - https://leeyuno.tistory.com/106
+
+## Protocol(5) Collections of Protocol Types
+- https://leeyuno.tistory.com/107
+
+## Protocol(6) Protocol Inheritance
+- https://leeyuno.tistory.com/108
+
+## Protocol(7) Class-Only Protocol
+- https://leeyuno.tistory.com/109
