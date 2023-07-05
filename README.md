@@ -62,3 +62,16 @@
 
 ## Protocol(7) Class-Only Protocol
 - https://leeyuno.tistory.com/109
+
+## Protocol(8) Protocol Composition (프로토콜 혼합)
+- https://leeyuno.tistory.com/110
+
+## Protocol(9) Checking for Protocol Conformance (프로토콜 준수 검사)
+- https://leeyuno.tistory.com/111
+
+## Protocol(10) Optional Protocol Requirements (옵셔널 프로토콜 요구사항)
+- https://leeyuno.tistory.com/112
+
+## Protocol(11) Protocol Extensions (프로토콜 확장)
+- https://leeyuno.tistory.com/113
+
