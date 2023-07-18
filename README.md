@@ -13,7 +13,7 @@
 - https://leeyuno.tistory.com/92
 
 ## Properties
-- https://leeyuno.tistory.com/manage/posts/
+- https://leeyuno.tistory.com/93
 
 ## PopLast & RemoveLast & DropLast
 - https://leeyuno.tistory.com/94
@@ -54,24 +54,29 @@
 ## Protocol(4) Adding Protocol Conformance with an Extension
 - https://leeyuno.tistory.com/106
 
-## Protocol(5) Collections of Protocol Types
+## Protocol(5) Adopting a Protocol Using a Synthesized Implementation (합성 구현을 통해 프로토콜 준수)
 - https://leeyuno.tistory.com/107
 
-## Protocol(6) Protocol Inheritance
+## Protocol(6) Collections of Protocol Types
 - https://leeyuno.tistory.com/108
 
-## Protocol(7) Class-Only Protocol
+## Protocol(7) Protocol Inheritance
 - https://leeyuno.tistory.com/109
 
-## Protocol(8) Protocol Composition (프로토콜 혼합)
+## Protocol(8) Class-Only Protocol
 - https://leeyuno.tistory.com/110
 
-## Protocol(9) Checking for Protocol Conformance (프로토콜 준수 검사)
+## Protocol(9) Protocol Composition (프로토콜 혼합)
 - https://leeyuno.tistory.com/111
 
-## Protocol(10) Optional Protocol Requirements (옵셔널 프로토콜 요구사항)
+## Protocol(10) Checking for Protocol Conformance (프로토콜 준수 검사)
 - https://leeyuno.tistory.com/112
 
-## Protocol(11) Protocol Extensions (프로토콜 확장)
+## Protocol(11) Optional Protocol Requirements (옵셔널 프로토콜 요구사항)
 - https://leeyuno.tistory.com/113
 
+## Protocol(12) Protocol Extensions (프로토콜 확장)
+- https://leeyuno.tistory.com/114
+
+## Generics(1) Generics - Generic Functions
+- https://leeyuno.tistory.com/115
