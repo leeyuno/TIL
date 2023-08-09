@@ -98,3 +98,6 @@
 
 ## Generics(7) Generics - Generic Subscripts (제네릭 서브 스크립트)
 - https://leeyuno.tistory.com/121
+
+## Opaque and Boxed Types
+- https://leeyuno.tistory.com/122
