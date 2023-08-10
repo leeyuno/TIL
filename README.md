@@ -101,3 +101,6 @@
 
 ## Opaque and Boxed Types
 - https://leeyuno.tistory.com/122
+
+## Error Handling
+- https://leeyuno.tistory.com/123
