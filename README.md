@@ -104,3 +104,6 @@
 
 ## Error Handling
 - https://leeyuno.tistory.com/123
+
+## Nested Types (중첩 타입)
+- https://leeyuno.tistory.com/124
