@@ -110,3 +110,15 @@
 
 ## Closures - Closure Expression
 - https://leeyuno.tistory.com/125
+
+## Closure - Trailing Closures (후행 클로저)
+- https://leeyuno.tistory.com/126
+
+## Closures - Capturing Values (캡쳐값)
+- https://leeyuno.tistory.com/127
+
+## Clsoure - 클로저는 참조 타입 (Closures Are Reference Types)
+- https://leeyuno.tistory.com/129
+
+## Closure - 탈출 클로저 (Escaping Closures)
+- https://leeyuno.tistory.com/130
